@@ -1,6 +1,9 @@
 # Temporary files
-node_modules/
-elm-stuff/
-
-# "Production" build
-index.js
+.vscode
+.github
+node_modules
+elm-stuff
+.DS_Store
+dist
+dist-ssr
+*.local

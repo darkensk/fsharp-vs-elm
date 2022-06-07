@@ -6,14 +6,8 @@
 
 > npm install -g yarn
 
-> yarn init
-
-> yarn add elm --dev
-
-> elm init
-
-> elm make src/Main.elm --optimize --output=index.js
+> yarn
 
 ## Running local dev server
 
-> http-server --cors
+> yarn dev
